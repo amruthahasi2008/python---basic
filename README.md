@@ -1,2 +1,2 @@
 # python---basic
-python code (basics)- loops , lists etc 
+python code (basics)
