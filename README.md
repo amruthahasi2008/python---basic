@@ -1,2 +1,2 @@
 # python---basic
-python code (basics)
+python code (basics)- pandas , matplotlib etc
